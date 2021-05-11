@@ -145,16 +145,14 @@
 <layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <library>
-<description>Generated from &lt;b&gt;Adafruit PiTFT+ 3.2in.sch&lt;/b&gt;&lt;p&gt;
-by exp-lbrs.ulp</description>
 <packages>
-<package name="MICROBUILDER_1X01_ROUND">
+<package name="1X01_ROUND">
 <rectangle x1="-0.254" y1="-0.254" x2="0.254" y2="0.254" layer="51"/>
 <pad name="1" x="0" y="0" drill="1" diameter="1.6764" rot="R90"/>
 <text x="-1.3462" y="1.8288" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-1.27" y="-3.175" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_2X13">
+<package name="2X13">
 <wire x1="-16.51" y1="-2.54" x2="-16.51" y2="0" width="0.2032" layer="21"/>
 <wire x1="-16.51" y1="0" x2="-16.51" y2="2.54" width="0.2032" layer="21"/>
 <wire x1="-16.51" y1="2.54" x2="16.51" y2="2.54" width="0.2032" layer="21"/>
@@ -218,7 +216,7 @@ by exp-lbrs.ulp</description>
 <text x="-16.51" y="3.175" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-16.51" y="-3.429" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_2X13_SMT_MALE">
+<package name="2X13_SMT_MALE">
 <wire x1="-16.51" y1="-3.81" x2="-16.51" y2="0" width="0.2032" layer="21"/>
 <wire x1="-16.51" y1="0" x2="-16.51" y2="3.81" width="0.2032" layer="21"/>
 <wire x1="-16.51" y1="3.81" x2="16.51" y2="3.81" width="0.2032" layer="21"/>
@@ -254,7 +252,7 @@ by exp-lbrs.ulp</description>
 <smd name="25" x="15.24" y="-2.159" dx="3.048" dy="1.524" layer="1" rot="R90"/>
 <smd name="26" x="15.24" y="2.159" dx="3.048" dy="1.524" layer="1" rot="R270"/>
 </package>
-<package name="MICROBUILDER_2X20">
+<package name="2X20">
 <description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
 <wire x1="-25.4" y1="-1.905" x2="-24.765" y2="-2.54" width="0.1524" layer="21"/>
 <wire x1="-24.765" y1="-2.54" x2="-23.495" y2="-2.54" width="0.1524" layer="21"/>
@@ -480,7 +478,7 @@ by exp-lbrs.ulp</description>
 <text x="-25.4" y="3.175" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-25.4" y="-4.445" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_0603-MINI">
+<package name="0603-MINI">
 <description>0603-Mini
 &lt;p&gt;Mini footprint for dense boards&lt;/p&gt;</description>
 <wire x1="-1.346" y1="0.583" x2="1.346" y2="0.583" width="0.0508" layer="39"/>
@@ -500,7 +498,7 @@ by exp-lbrs.ulp</description>
 <text x="1.524" y="-0.0635" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="1.524" y="-0.635" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_0603-NO">
+<package name="0603-NO">
 <wire x1="-1.473" y1="0.729" x2="1.473" y2="0.729" width="0.0508" layer="39"/>
 <wire x1="1.473" y1="0.729" x2="1.473" y2="-0.729" width="0.0508" layer="39"/>
 <wire x1="1.473" y1="-0.729" x2="-1.473" y2="-0.729" width="0.0508" layer="39"/>
@@ -515,7 +513,7 @@ by exp-lbrs.ulp</description>
 <text x="1.778" y="-0.127" size="0.8128" layer="25" font="vector" ratio="18">&gt;NAME</text>
 <text x="1.778" y="-0.762" size="0.4064" layer="27" font="vector" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_0805-NO">
+<package name="0805-NO">
 <wire x1="-0.381" y1="0.66" x2="0.381" y2="0.66" width="0.1016" layer="51"/>
 <wire x1="-0.356" y1="-0.66" x2="0.381" y2="-0.66" width="0.1016" layer="51"/>
 <wire x1="0" y1="0.508" x2="0" y2="-0.508" width="0.3048" layer="21"/>
@@ -526,7 +524,7 @@ by exp-lbrs.ulp</description>
 <text x="2.032" y="-0.127" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="2.032" y="-0.762" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_0805_10MGAP">
+<package name="0805_10MGAP">
 <wire x1="-0.381" y1="0.66" x2="0.381" y2="0.66" width="0.1016" layer="51"/>
 <wire x1="-0.356" y1="-0.66" x2="0.381" y2="-0.66" width="0.1016" layer="51"/>
 <wire x1="0" y1="0.508" x2="0" y2="-0.508" width="0.3048" layer="21"/>
@@ -537,7 +535,7 @@ by exp-lbrs.ulp</description>
 <text x="2.032" y="-0.127" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="2.032" y="-0.762" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_0805_NOTHERMALS">
+<package name="0805_NOTHERMALS">
 <wire x1="-1.873" y1="0.883" x2="1.873" y2="0.883" width="0.0508" layer="39"/>
 <wire x1="1.873" y1="-0.883" x2="-1.873" y2="-0.883" width="0.0508" layer="39"/>
 <wire x1="-1.873" y1="-0.883" x2="-1.873" y2="0.883" width="0.0508" layer="39"/>
@@ -555,7 +553,7 @@ by exp-lbrs.ulp</description>
 <text x="2.032" y="-0.127" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="2.032" y="-0.762" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_2012">
+<package name="2012">
 <wire x1="-1.662" y1="1.245" x2="1.662" y2="1.245" width="0.2032" layer="51"/>
 <wire x1="-1.637" y1="-1.245" x2="1.687" y2="-1.245" width="0.2032" layer="51"/>
 <wire x1="-3.473" y1="1.483" x2="3.473" y2="1.483" width="0.0508" layer="39"/>
@@ -573,7 +571,7 @@ by exp-lbrs.ulp</description>
 <text x="-2.54" y="1.8415" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-2.667" y="-2.159" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_2512">
+<package name="2512">
 <description>&lt;b&gt;RESISTOR 2512 (Metric 6432)&lt;/b&gt;</description>
 <wire x1="-2.362" y1="1.473" x2="2.387" y2="1.473" width="0.2032" layer="51"/>
 <wire x1="-2.362" y1="-1.473" x2="2.387" y2="-1.473" width="0.2032" layer="51"/>
@@ -589,7 +587,7 @@ by exp-lbrs.ulp</description>
 <text x="-3.683" y="1.905" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-3.556" y="-2.286" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_BTN_CK_KSS">
+<package name="BTN_CK_KSS">
 <wire x1="-2.75" y1="1.75" x2="2.75" y2="1.75" width="0.127" layer="51"/>
 <wire x1="2.75" y1="1.75" x2="2.75" y2="1.505" width="0.127" layer="51"/>
 <wire x1="2.75" y1="1.505" x2="2.75" y2="-1.505" width="0.127" layer="51"/>
@@ -617,7 +615,7 @@ by exp-lbrs.ulp</description>
 <text x="-1.886" y="2.094" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-1.886" y="1.144" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_DO-1N4148">
+<package name="DO-1N4148">
 <wire x1="-2.54" y1="0.762" x2="2.54" y2="0.762" width="0.2032" layer="21"/>
 <wire x1="2.54" y1="0.762" x2="2.54" y2="0" width="0.2032" layer="21"/>
 <wire x1="2.54" y1="0" x2="2.54" y2="-0.762" width="0.2032" layer="21"/>
@@ -632,7 +630,7 @@ by exp-lbrs.ulp</description>
 <text x="-2.286" y="1.143" size="0.8128" layer="25" ratio="18">&gt;Name</text>
 <text x="-2.286" y="-0.381" size="0.8128" layer="21">&gt;Value</text>
 </package>
-<package name="MICROBUILDER_DPAK">
+<package name="DPAK">
 <description>&lt;b&gt;SMD D-PAK&lt;/b&gt;</description>
 <wire x1="3.3" y1="-3" x2="3.3" y2="3.2" width="0.2032" layer="21"/>
 <wire x1="-3.3" y1="3.2" x2="-3.3" y2="-3" width="0.2032" layer="21"/>
@@ -659,14 +657,14 @@ by exp-lbrs.ulp</description>
 <vertex x="2.5" y="3.2"/>
 </polygon>
 </package>
-<package name="MICROBUILDER_FIDUCIAL-1X2.5">
+<package name="FIDUCIAL-1X2.5">
 <circle x="0" y="0" radius="1.1" width="1.2" layer="29"/>
 <circle x="0" y="0" radius="1.1" width="1.2" layer="39"/>
 <circle x="0" y="0" radius="1.1" width="1.2" layer="41"/>
 <smd name="1" x="0" y="0" dx="1" dy="1" layer="1" roundness="100" cream="no"/>
 <text x="-0.508" y="-1.016" size="0.4064" layer="25">1mm</text>
 </package>
-<package name="MICROBUILDER_FIDUCIAL_1MM">
+<package name="FIDUCIAL_1MM">
 <wire x1="-0.75" y1="0" x2="0" y2="0.75" width="0.5" layer="29" curve="-90"/>
 <wire x1="0" y1="0.75" x2="0.75" y2="0" width="0.5" layer="29" curve="-90"/>
 <wire x1="0.75" y1="0" x2="0" y2="-0.75" width="0.5" layer="29" curve="-90"/>
@@ -681,7 +679,7 @@ by exp-lbrs.ulp</description>
 <wire x1="0" y1="-0.75" x2="-0.75" y2="0" width="0.5" layer="39" curve="-90"/>
 <smd name="1" x="0" y="0" dx="1" dy="1" layer="1" roundness="100" cream="no"/>
 </package>
-<package name="MICROBUILDER_MOUNTINGHOLE_1.0_PLATED">
+<package name="MOUNTINGHOLE_1.0_PLATED">
 <circle x="0" y="0" radius="1.75" width="0.2032" layer="21"/>
 <circle x="0" y="0" radius="1" width="2.032" layer="39"/>
 <circle x="0" y="0" radius="1" width="2.032" layer="43"/>
@@ -691,7 +689,7 @@ by exp-lbrs.ulp</description>
 <pad name="P$1" x="0" y="0" drill="1" diameter="3"/>
 <text x="-0.87" y="-2.74" size="0.8128" layer="48">1,0</text>
 </package>
-<package name="MICROBUILDER_MOUNTINGHOLE_2.0_PLATED">
+<package name="MOUNTINGHOLE_2.0_PLATED">
 <circle x="0" y="0" radius="1.8" width="0.2032" layer="21"/>
 <circle x="0" y="0" radius="1" width="2.032" layer="39"/>
 <circle x="0" y="0" radius="1" width="2.032" layer="43"/>
@@ -701,7 +699,7 @@ by exp-lbrs.ulp</description>
 <pad name="P$1" x="0" y="0" drill="2.2" diameter="3"/>
 <text x="-0.87" y="-2.74" size="0.8128" layer="48">2,0</text>
 </package>
-<package name="MICROBUILDER_MOUNTINGHOLE_2.5_PLATED">
+<package name="MOUNTINGHOLE_2.5_PLATED">
 <circle x="0" y="0" radius="2" width="0.2032" layer="21"/>
 <circle x="0" y="0" radius="1" width="2.032" layer="39"/>
 <circle x="0" y="0" radius="1" width="2.032" layer="40"/>
@@ -709,7 +707,7 @@ by exp-lbrs.ulp</description>
 <circle x="0" y="0" radius="1" width="2.032" layer="42"/>
 <pad name="P$1" x="0" y="0" drill="2.5" diameter="3.2"/>
 </package>
-<package name="MICROBUILDER_MOUNTINGHOLE_2.5_PLATED_THICK">
+<package name="MOUNTINGHOLE_2.5_PLATED_THICK">
 <circle x="0" y="0" radius="2.25" width="0.2032" layer="21"/>
 <circle x="0" y="0" radius="1.25" width="2.032" layer="39"/>
 <circle x="0" y="0" radius="1.25" width="2.032" layer="40"/>
@@ -717,7 +715,7 @@ by exp-lbrs.ulp</description>
 <circle x="0" y="0" radius="1.25" width="2.032" layer="42"/>
 <pad name="P$1" x="0" y="0" drill="2.5" diameter="4"/>
 </package>
-<package name="MICROBUILDER_MOUNTINGHOLE_3.0_PLATED">
+<package name="MOUNTINGHOLE_3.0_PLATED">
 <circle x="0" y="0" radius="3.429" width="0.2032" layer="21"/>
 <circle x="0" y="0" radius="0.762" width="0.4572" layer="51"/>
 <circle x="0" y="0" radius="3.048" width="2.032" layer="39"/>
@@ -730,7 +728,7 @@ by exp-lbrs.ulp</description>
 <pad name="P$1" x="0" y="0" drill="3" diameter="6.4516"/>
 <text x="-1.27" y="-3.81" size="1.27" layer="48">3,0</text>
 </package>
-<package name="MICROBUILDER_MOUNTINGHOLE_3.0_PLATEDTHIN">
+<package name="MOUNTINGHOLE_3.0_PLATEDTHIN">
 <circle x="0" y="0" radius="2.2" width="0.2" layer="21"/>
 <circle x="0" y="0" radius="1" width="2.032" layer="39"/>
 <circle x="0" y="0" radius="1" width="2.032" layer="43"/>
@@ -739,7 +737,7 @@ by exp-lbrs.ulp</description>
 <circle x="0" y="0" radius="1" width="2.032" layer="42"/>
 <pad name="P$1" x="0" y="0" drill="3" diameter="3.6"/>
 </package>
-<package name="MICROBUILDER_MOUNTINGHOLE_3.0_PLATED_SQUAREVIAS">
+<package name="MOUNTINGHOLE_3.0_PLATED_SQUAREVIAS">
 <circle x="0" y="0" radius="0.762" width="0.4572" layer="51"/>
 <wire x1="-3.4" y1="3.4" x2="-3.4" y2="-3.4" width="0.127" layer="21"/>
 <wire x1="-3.4" y1="-3.4" x2="3.4" y2="-3.4" width="0.127" layer="21"/>
@@ -757,7 +755,7 @@ by exp-lbrs.ulp</description>
 <pad name="P$8" x="2.25" y="-2.25" drill="0.4"/>
 <pad name="P$9" x="-2.25" y="-2.25" drill="0.4"/>
 </package>
-<package name="MICROBUILDER_MOUNTINGHOLE_3.0_PLATED_VIAS">
+<package name="MOUNTINGHOLE_3.0_PLATED_VIAS">
 <circle x="0" y="0" radius="3.429" width="0.2032" layer="21"/>
 <circle x="0" y="0" radius="0.762" width="0.4572" layer="51"/>
 <circle x="0" y="0" radius="3.048" width="2.032" layer="39"/>
@@ -774,7 +772,7 @@ by exp-lbrs.ulp</description>
 <pad name="P$8" x="1.8" y="-1.7" drill="0.4"/>
 <pad name="P$9" x="1.8" y="1.7" drill="0.4"/>
 </package>
-<package name="MICROBUILDER_PAD-1.5X2.0">
+<package name="PAD-1.5X2.0">
 <description>1.5 x 2.0mm SMT pad (no solder paste)</description>
 <wire x1="-0.95" y1="1.2" x2="0.95" y2="1.2" width="0.127" layer="21"/>
 <wire x1="0.95" y1="1.2" x2="0.95" y2="-1.2" width="0.127" layer="21"/>
@@ -784,7 +782,7 @@ by exp-lbrs.ulp</description>
 <text x="1.1" y="0" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="1.1" y="-0.7" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_PASS-ROUND">
+<package name="PASS-ROUND">
 <description>&lt;b&gt;FIDUCIAL MARKER&lt;/b&gt;&lt;p&gt;
 round, layers 1 + 16 + 21 + 39 + 49</description>
 <circle x="0" y="0" radius="1.27" width="0.1524" layer="49"/>
@@ -814,7 +812,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <wire x1="-0.5842" y1="-0.0254" x2="-0.0254" y2="-0.5842" width="1.1176" layer="16" curve="90" cap="flat"/>
 <wire x1="-0.5842" y1="-0.0254" x2="-0.0254" y2="-0.5842" width="1.1176" layer="1" curve="90" cap="flat"/>
 </package>
-<package name="MICROBUILDER_PI_HAT_NOSLOTS">
+<package name="PI_HAT_NOSLOTS">
 <circle x="3.5" y="3.5" radius="3.1" width="0" layer="41"/>
 <circle x="61.5" y="3.5" radius="3.1" width="0" layer="41"/>
 <circle x="3.5" y="52.5" radius="3.1" width="0" layer="41"/>
@@ -883,7 +881,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <hole x="61.5" y="52.5" drill="2.8"/>
 <hole x="61.5" y="3.5" drill="2.8"/>
 </package>
-<package name="MICROBUILDER_PI_HAT_SLOTS">
+<package name="PI_HAT_SLOTS">
 <circle x="3.5" y="3.5" radius="3.1" width="0" layer="41"/>
 <circle x="61.5" y="3.5" radius="3.1" width="0" layer="41"/>
 <circle x="3.5" y="52.5" radius="3.1" width="0" layer="41"/>
@@ -953,7 +951,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <hole x="61.5" y="52.5" drill="2.8"/>
 <hole x="61.5" y="3.5" drill="2.8"/>
 </package>
-<package name="MICROBUILDER_PI_HAT_SMT_SLOTS">
+<package name="PI_HAT_SMT_SLOTS">
 <wire x1="0" y1="53.5" x2="0" y2="36.5" width="0" layer="20"/>
 <wire x1="0" y1="36.5" x2="0" y2="3" width="0" layer="20"/>
 <wire x1="0" y1="3" x2="3" y2="0" width="0" layer="20" curve="90"/>
@@ -1107,7 +1105,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <hole x="61.5" y="52.5" drill="2.8"/>
 <hole x="61.5" y="3.5" drill="2.8"/>
 </package>
-<package name="MICROBUILDER_POWERDI-5">
+<package name="POWERDI-5">
 <wire x1="-2" y1="3.25" x2="2" y2="3.25" width="0.127" layer="51"/>
 <wire x1="2" y1="3.25" x2="2" y2="-3.25" width="0.127" layer="51"/>
 <wire x1="2" y1="-3.25" x2="-2" y2="-3.25" width="0.127" layer="51"/>
@@ -1130,7 +1128,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <vertex x="1.5" y="-0.6"/>
 </polygon>
 </package>
-<package name="MICROBUILDER_POWERPAK-1212-8">
+<package name="POWERPAK-1212-8">
 <description>POWER-PAK 1212-8</description>
 <circle x="-1.155" y="-0.9613" radius="0.3175" width="0" layer="21"/>
 <wire x1="-1.725" y1="-1.725" x2="-1.725" y2="1.725" width="0.2032" layer="21"/>
@@ -1145,7 +1143,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="-2.34" y="-1.72" size="0.8128" layer="25" ratio="18" rot="R90">&gt;NAME</text>
 <text x="2.66" y="-1.77" size="0.4064" layer="27" ratio="10" rot="R90">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_PUSHBUTTON_SMD_SJ">
+<package name="PUSHBUTTON_SMD_SJ">
 <circle x="0" y="0" radius="2.8398" width="0.2032" layer="51"/>
 <wire x1="-2.9997" y1="3" x2="3" y2="3" width="0.127" layer="51"/>
 <wire x1="3" y1="3" x2="3" y2="-3" width="0.2032" layer="51"/>
@@ -1162,7 +1160,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="-1.778" y="0.127" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-1.778" y="-0.762" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_QFN16_3MM">
+<package name="QFN16_3MM">
 <circle x="-2.1" y="1.4" radius="0.14141875" width="0.3048" layer="21"/>
 <wire x1="-1.5" y1="1.5" x2="1.5" y2="1.5" width="0.127" layer="51"/>
 <wire x1="1.5" y1="1.5" x2="1.5" y2="-1.5" width="0.127" layer="51"/>
@@ -1218,7 +1216,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <vertex x="-0.508" y="-0.508"/>
 </polygon>
 </package>
-<package name="MICROBUILDER_RASPBERRYPI_BPLUS_SHIELD">
+<package name="RASPBERRYPI_BPLUS_SHIELD">
 <circle x="3.429" y="81.4832" radius="1.397228125" width="0" layer="51"/>
 <circle x="52.451" y="81.4832" radius="1.397228125" width="0" layer="51"/>
 <circle x="52.451" y="23.4188" radius="1.397228125" width="0" layer="51"/>
@@ -1492,7 +1490,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="49.537" y="31.877" size="1.27" layer="25" font="vector" rot="R180">GPIO26</text>
 <text x="49.537" y="29.337" size="1.27" layer="25" font="vector" rot="R180">GND</text>
 </package>
-<package name="MICROBUILDER_RASPBERRYPI_BPLUS_SHIELD_NODIM">
+<package name="RASPBERRYPI_BPLUS_SHIELD_NODIM">
 <wire x1="0" y1="0" x2="0" y2="84.9122" width="0.127" layer="51"/>
 <wire x1="0" y1="84.9122" x2="55.88" y2="84.9122" width="0.127" layer="51"/>
 <wire x1="55.88" y1="84.9122" x2="55.88" y2="0" width="0.127" layer="51"/>
@@ -1719,7 +1717,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="49.537" y="31.877" size="1.27" layer="25" font="vector" rot="R180">GPIO26</text>
 <text x="49.537" y="29.337" size="1.27" layer="25" font="vector" rot="R180">GND</text>
 </package>
-<package name="MICROBUILDER_RASPBERRYPI_BPLUS_SHIELD_SMT">
+<package name="RASPBERRYPI_BPLUS_SHIELD_SMT">
 <circle x="3.429" y="81.4832" radius="1.397228125" width="0" layer="51"/>
 <circle x="52.451" y="81.4832" radius="1.397228125" width="0" layer="51"/>
 <circle x="52.451" y="23.4188" radius="1.397228125" width="0" layer="51"/>
@@ -1860,7 +1858,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="49.537" y="31.877" size="1.27" layer="25" font="vector" rot="R180">GPIO26</text>
 <text x="49.537" y="29.337" size="1.27" layer="25" font="vector" rot="R180">GND</text>
 </package>
-<package name="MICROBUILDER_SMADIODE">
+<package name="SMADIODE">
 <description>&lt;b&gt;SMA Surface Mount Diode&lt;/b&gt;</description>
 <wire x1="-2.15" y1="1.3" x2="2.15" y2="1.3" width="0.2032" layer="51"/>
 <wire x1="2.15" y1="1.3" x2="2.15" y2="-1.3" width="0.2032" layer="51"/>
@@ -1883,7 +1881,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="-2.54" y="1.905" size="0.8128" layer="25" font="vector" ratio="18">&gt;NAME</text>
 <text x="-2.54" y="-2.286" size="0.4064" layer="27" font="vector" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_SOD-123">
+<package name="SOD-123">
 <description>&lt;b&gt;SOD-123&lt;/b&gt;
 &lt;p&gt;Source: http://www.diodes.com/datasheets/ds30139.pdf&lt;/p&gt;</description>
 <wire x1="-0.873" y1="0.7" x2="0.873" y2="0.7" width="0.2032" layer="21"/>
@@ -1906,7 +1904,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <vertex x="0.2" y="-0.2"/>
 </polygon>
 </package>
-<package name="MICROBUILDER_SOD-323">
+<package name="SOD-323">
 <description>&lt;b&gt;SOD323&lt;/b&gt; (2.5x1.2mm)</description>
 <wire x1="-1" y1="0.7" x2="1" y2="0.7" width="0.2032" layer="21"/>
 <wire x1="1" y1="0.7" x2="1" y2="-0.7" width="0.2032" layer="51"/>
@@ -1926,7 +1924,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <vertex x="0.2" y="-0.2"/>
 </polygon>
 </package>
-<package name="MICROBUILDER_SOD-523">
+<package name="SOD-523">
 <description>SOD-523 (0.8x1.2mm)
 
 &lt;p&gt;Source: http://www.rohm.com/products/databook/di/pdf/rb751s-40.pdf&lt;/p&gt;</description>
@@ -1950,7 +1948,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <vertex x="-0.25" y="-0.2"/>
 </polygon>
 </package>
-<package name="MICROBUILDER_SOIC8_150MIL">
+<package name="SOIC8_150MIL">
 <description>&lt;b&gt;Small Outline IC - 150mil Wide&lt;/b&gt;</description>
 <circle x="-1.9304" y="-0.889" radius="0.254" width="0.2032" layer="21"/>
 <wire x1="2.4" y1="1.9" x2="2.4" y2="-1.4" width="0.2032" layer="51"/>
@@ -1981,7 +1979,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="-1.905" y="0.381" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-1.905" y="-0.381" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE">
+<package name="SOLDERJUMPER_ARROW_NOPASTE">
 <wire x1="1.397" y1="-1.016" x2="-1.397" y2="-1.016" width="0.2032" layer="21"/>
 <wire x1="1.397" y1="1.016" x2="1.651" y2="0.762" width="0.2032" layer="21" curve="-90"/>
 <wire x1="-1.651" y1="0.762" x2="-1.397" y2="1.016" width="0.2032" layer="21" curve="-90"/>
@@ -2010,7 +2008,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <vertex x="1.143" y="0.7366"/>
 </polygon>
 </package>
-<package name="MICROBUILDER_SOLDERJUMPER_CLOSEDPERM">
+<package name="SOLDERJUMPER_CLOSEDPERM">
 <wire x1="1.397" y1="-1.016" x2="-1.397" y2="-1.016" width="0.2032" layer="21"/>
 <wire x1="1.397" y1="1.016" x2="1.651" y2="0.762" width="0.2032" layer="21" curve="-90"/>
 <wire x1="-1.651" y1="0.762" x2="-1.397" y2="1.016" width="0.2032" layer="21" curve="-90"/>
@@ -2030,7 +2028,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="-1.651" y="1.143" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-1.524" y="-1.651" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_SOLDERJUMPER_CLOSEDWIRE">
+<package name="SOLDERJUMPER_CLOSEDWIRE">
 <wire x1="1.397" y1="-1.016" x2="-1.397" y2="-1.016" width="0.2032" layer="21"/>
 <wire x1="1.397" y1="1.016" x2="1.651" y2="0.762" width="0.2032" layer="21" curve="-90"/>
 <wire x1="-1.651" y1="0.762" x2="-1.397" y2="1.016" width="0.2032" layer="21" curve="-90"/>
@@ -2055,7 +2053,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <vertex x="-1.27" y="-0.762"/>
 </polygon>
 </package>
-<package name="MICROBUILDER_SOLDERJUMPER_REFLOW">
+<package name="SOLDERJUMPER_REFLOW">
 <description>&lt;b&gt;Solder Jumper&lt;/b&gt; - Reflow</description>
 <wire x1="1.397" y1="-1.016" x2="-1.397" y2="-1.016" width="0.2032" layer="21"/>
 <wire x1="1.397" y1="1.016" x2="1.651" y2="0.762" width="0.2032" layer="21" curve="-90"/>
@@ -2075,7 +2073,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="-1.651" y="1.27" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="0.4001" y="0" size="0.02" layer="27">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_SOLDERJUMPER_REFLOW_NOPASTE">
+<package name="SOLDERJUMPER_REFLOW_NOPASTE">
 <wire x1="1.397" y1="-1.016" x2="-1.397" y2="-1.016" width="0.2032" layer="21"/>
 <wire x1="1.397" y1="1.016" x2="1.651" y2="0.762" width="0.2032" layer="21" curve="-90"/>
 <wire x1="-1.651" y1="0.762" x2="-1.397" y2="1.016" width="0.2032" layer="21" curve="-90"/>
@@ -2094,7 +2092,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="-1.651" y="1.27" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="0.4001" y="0" size="0.02" layer="27">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_SOLDERJUMPER_WAVE">
+<package name="SOLDERJUMPER_WAVE">
 <description>&lt;b&gt;Solder Jumper&lt;/b&gt; - Wave</description>
 <wire x1="1.905" y1="-1.524" x2="-1.905" y2="-1.524" width="0.2032" layer="21"/>
 <wire x1="1.905" y1="1.524" x2="2.159" y2="1.27" width="0.2032" layer="21" curve="-90"/>
@@ -2131,7 +2129,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="-2.159" y="1.778" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="1" y="0" size="0.02" layer="27">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_SOT23-R">
+<package name="SOT23-R">
 <description>&lt;b&gt;SOT23&lt;/b&gt; - Reflow soldering</description>
 <wire x1="1.5724" y1="0.6604" x2="1.5724" y2="-0.6604" width="0.1524" layer="51"/>
 <wire x1="1.5724" y1="-0.6604" x2="-1.5724" y2="-0.6604" width="0.1524" layer="51"/>
@@ -2151,7 +2149,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="1.778" y="-0.127" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="1.778" y="-0.635" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_SOT23-W">
+<package name="SOT23-W">
 <description>&lt;b&gt;SOT23&lt;/b&gt; - Wave soldering</description>
 <wire x1="1.5724" y1="0.6604" x2="1.5724" y2="-0.6604" width="0.2032" layer="51"/>
 <wire x1="1.5724" y1="-0.6604" x2="-1.5724" y2="-0.6604" width="0.1524" layer="51"/>
@@ -2169,7 +2167,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="2.032" y="-0.127" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="2.032" y="-0.635" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_SOT23-WIDE">
+<package name="SOT23-WIDE">
 <wire x1="1.5724" y1="0.6604" x2="1.5724" y2="-0.6604" width="0.2032" layer="51"/>
 <wire x1="1.5724" y1="-0.6604" x2="-1.5724" y2="-0.6604" width="0.1524" layer="51"/>
 <wire x1="-1.5724" y1="-0.6604" x2="-1.5724" y2="0.6604" width="0.2032" layer="51"/>
@@ -2188,7 +2186,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="1.905" y="0" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="1.905" y="-0.635" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_TACT_PANA-EVQ">
+<package name="TACT_PANA-EVQ">
 <wire x1="-3" y1="1.75" x2="3" y2="1.75" width="0.127" layer="51"/>
 <wire x1="3" y1="1.75" x2="3" y2="0.5" width="0.127" layer="51"/>
 <wire x1="3" y1="-0.5" x2="3" y2="-1.75" width="0.127" layer="51"/>
@@ -2218,7 +2216,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="-3.043" y="2.17" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-3.016" y="-2.451" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_TESTPOINT_PAD_1MM">
+<package name="TESTPOINT_PAD_1MM">
 <wire x1="-0.7" y1="0.7" x2="0.7" y2="0.7" width="0.127" layer="21"/>
 <wire x1="0.7" y1="0.7" x2="0.7" y2="-0.7" width="0.127" layer="21"/>
 <wire x1="0.7" y1="-0.7" x2="-0.7" y2="-0.7" width="0.127" layer="21"/>
@@ -2227,7 +2225,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="1.27" y="0" size="0.8128" layer="25" ratio="18" align="center-left">&gt;NAME</text>
 <text x="0" y="0" size="0.4064" layer="27" ratio="10" align="center">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_TESTPOINT_PAD_2MM">
+<package name="TESTPOINT_PAD_2MM">
 <description>Testpoint - Pad</description>
 <wire x1="-1.27" y1="1.27" x2="1.27" y2="1.27" width="0.2032" layer="21"/>
 <wire x1="1.27" y1="1.27" x2="1.27" y2="-1.27" width="0.2032" layer="21"/>
@@ -2237,31 +2235,31 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="-1.016" y="0" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-1.016" y="-0.508" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_TESTPOINT_RECT_0.25X1MM">
+<package name="TESTPOINT_RECT_0.25X1MM">
 <smd name="P$1" x="0" y="0" dx="1" dy="0.25" layer="1" roundness="25"/>
 <text x="0.889" y="-0.127" size="0.8128" layer="25" ratio="18" align="center-left">&gt;NAME</text>
 <text x="0.889" y="-0.889" size="0.4064" layer="27" ratio="10" align="center-left">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_TESTPOINT_ROUND_0.5MM">
+<package name="TESTPOINT_ROUND_0.5MM">
 <circle x="0" y="0" radius="0.45" width="0.2032" layer="21"/>
 <smd name="P$1" x="0" y="0" dx="0.5" dy="0.5" layer="1" roundness="100" cream="no"/>
 <text x="0.889" y="-0.127" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="0.889" y="-0.635" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_TESTPOINT_ROUND_1MM">
+<package name="TESTPOINT_ROUND_1MM">
 <circle x="0" y="0" radius="0.7" width="0.2032" layer="21"/>
 <smd name="P$1" x="0" y="0" dx="1" dy="1" layer="1" roundness="100" cream="no"/>
 <text x="1.143" y="-0.127" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="1.143" y="-0.635" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_TESTPOINT_ROUND_2MM">
+<package name="TESTPOINT_ROUND_2MM">
 <description>Testpoint - Round 2mm</description>
 <circle x="0" y="0" radius="1.3029" width="0.2032" layer="21"/>
 <smd name="P$1" x="0" y="0" dx="2" dy="2" layer="1" roundness="100" cream="no"/>
 <text x="1.651" y="0.127" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="1.651" y="-0.635" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_TESTPOINT_SMT">
+<package name="TESTPOINT_SMT">
 <description>Surface Mount Test Point - Compact SMT</description>
 <wire x1="-2.75" y1="2" x2="2.75" y2="2" width="0.2032" layer="21"/>
 <wire x1="2.75" y1="2" x2="2.75" y2="-2" width="0.2032" layer="21"/>
@@ -2271,7 +2269,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="3.048" y="-1.143" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="3.048" y="-1.778" size="0.4064" layer="25" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER_TFT_3.2IN_240X320_50PIN">
+<package name="TFT_3.2IN_240X320_50PIN">
 <wire x1="-27" y1="38" x2="27.1" y2="38" width="0.127" layer="51"/>
 <wire x1="27.1" y1="38" x2="27.1" y2="-40" width="0.127" layer="51"/>
 <wire x1="27.1" y1="-40" x2="-27" y2="-40" width="0.127" layer="51"/>
@@ -2442,7 +2440,7 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <text x="14.726" y="-15.125" size="0.4064" layer="28" ratio="10" rot="MR0">&gt;VALUE</text>
 <text x="0" y="-23.2" size="0.8128" layer="51" ratio="15" align="center">Suggested Cutout Zone</text>
 </package>
-<package name="MICROBUILDER_TO252">
+<package name="TO252">
 <description>&lt;b&gt;SMALL OUTLINE TRANSISTOR&lt;/b&gt;&lt;p&gt;
 TS-003</description>
 <wire x1="3.2766" y1="3.8354" x2="3.277" y2="-2.159" width="0.2032" layer="21"/>
@@ -2472,7 +2470,7 @@ TS-003</description>
 <vertex x="2.5654" y="3.937"/>
 </polygon>
 </package>
-<package name="MICROBUILDER__0402">
+<package name="_0402">
 <description>&lt;b&gt; 0402&lt;/b&gt;</description>
 <wire x1="-0.245" y1="0.174" x2="0.245" y2="0.174" width="0.1016" layer="51"/>
 <wire x1="0.245" y1="-0.174" x2="-0.245" y2="-0.174" width="0.1016" layer="51"/>
@@ -2488,7 +2486,7 @@ TS-003</description>
 <text x="-0.9525" y="0.7939" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-0.9525" y="-1.3336" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER__0402MP">
+<package name="_0402MP">
 <description>&lt;b&gt;0402 MicroPitch&lt;p&gt;</description>
 <wire x1="-0.245" y1="0.174" x2="0.245" y2="0.174" width="0.1016" layer="51"/>
 <wire x1="0.245" y1="-0.174" x2="-0.245" y2="-0.174" width="0.1016" layer="51"/>
@@ -2501,7 +2499,7 @@ TS-003</description>
 <text x="-0.635" y="0.4763" size="0.6096" layer="25" ratio="18">&gt;NAME</text>
 <text x="-0.635" y="-0.7938" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER__0603">
+<package name="_0603">
 <description>&lt;b&gt;0603&lt;/b&gt;</description>
 <wire x1="-0.432" y1="-0.306" x2="0.432" y2="-0.306" width="0.1016" layer="51"/>
 <wire x1="0.432" y1="0.306" x2="-0.432" y2="0.306" width="0.1016" layer="51"/>
@@ -2517,7 +2515,7 @@ TS-003</description>
 <text x="-1.27" y="0.9525" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-1.27" y="-1.4923" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER__0603MP">
+<package name="_0603MP">
 <description>&lt;b&gt;0603 MicroPitch&lt;/b&gt;</description>
 <wire x1="-0.432" y1="-0.306" x2="0.432" y2="-0.306" width="0.1016" layer="51"/>
 <wire x1="0.432" y1="0.306" x2="-0.432" y2="0.306" width="0.1016" layer="51"/>
@@ -2530,7 +2528,7 @@ TS-003</description>
 <text x="-0.9525" y="0.635" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-0.9525" y="-0.9525" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER__0805">
+<package name="_0805">
 <description>&lt;b&gt;0805&lt;/b&gt;</description>
 <wire x1="-0.41" y1="0.585" x2="0.41" y2="0.585" width="0.1016" layer="51"/>
 <wire x1="-0.41" y1="-0.585" x2="0.41" y2="-0.585" width="0.1016" layer="51"/>
@@ -2546,7 +2544,7 @@ TS-003</description>
 <text x="-1.5875" y="1.27" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-1.5874" y="-1.651" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER__0805MP">
+<package name="_0805MP">
 <description>&lt;b&gt;0805 MicroPitch&lt;/b&gt;</description>
 <wire x1="-0.51" y1="0.535" x2="0.51" y2="0.535" width="0.1016" layer="51"/>
 <wire x1="-0.51" y1="-0.535" x2="0.51" y2="-0.535" width="0.1016" layer="51"/>
@@ -2559,7 +2557,7 @@ TS-003</description>
 <text x="-1.5875" y="0.9525" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-1.5875" y="-1.27" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER__1206">
+<package name="_1206">
 <wire x1="0.9525" y1="-0.8128" x2="-0.9652" y2="-0.8128" width="0.1016" layer="51"/>
 <wire x1="0.9525" y1="0.8128" x2="-0.9652" y2="0.8128" width="0.1016" layer="51"/>
 <wire x1="-2.286" y1="1.143" x2="2.286" y2="1.143" width="0.2032" layer="21"/>
@@ -2574,7 +2572,7 @@ TS-003</description>
 <text x="-2.2225" y="1.5113" size="0.8128" layer="25" ratio="18">&gt;NAME</text>
 <text x="-2.2225" y="-1.8288" size="0.4064" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="MICROBUILDER__1206MP">
+<package name="_1206MP">
 <wire x1="1.0525" y1="-0.7128" x2="-1.0652" y2="-0.7128" width="0.1016" layer="51"/>
 <wire x1="1.0525" y1="0.7128" x2="-1.0652" y2="0.7128" width="0.1016" layer="51"/>
 <wire x1="-0.635" y1="0.635" x2="0.635" y2="0.635" width="0.2032" layer="21"/>
@@ -2589,13 +2587,13 @@ TS-003</description>
 </package>
 </packages>
 <symbols>
-<symbol name="MICROBUILDER_3.3V">
+<symbol name="3.3V">
 <wire x1="-1.27" y1="-1.27" x2="0" y2="0" width="0.254" layer="94"/>
 <wire x1="0" y1="0" x2="1.27" y2="-1.27" width="0.254" layer="94"/>
 <pin name="3.3V" x="0" y="-2.54" visible="off" length="short" direction="sup" rot="R90"/>
 <text x="-1.524" y="1.016" size="1.27" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="MICROBUILDER_CAPACITOR">
+<symbol name="CAPACITOR">
 <rectangle x1="-1.27" y1="0.508" x2="1.27" y2="1.016" layer="94"/>
 <rectangle x1="-1.27" y1="1.524" x2="1.27" y2="2.032" layer="94"/>
 <wire x1="0" y1="0.762" x2="0" y2="0" width="0.1524" layer="94"/>
@@ -2605,7 +2603,7 @@ TS-003</description>
 <text x="-2.29" y="1.25" size="1.27" layer="95" font="vector" rot="R90" align="center">&gt;NAME</text>
 <text x="2.3" y="1.25" size="1.27" layer="96" font="vector" rot="R90" align="center">&gt;VALUE</text>
 </symbol>
-<symbol name="MICROBUILDER_DIODE">
+<symbol name="DIODE">
 <wire x1="-1.27" y1="1.27" x2="-1.27" y2="-1.27" width="0.254" layer="94"/>
 <wire x1="-1.27" y1="-1.27" x2="1.27" y2="0" width="0.254" layer="94"/>
 <wire x1="1.27" y1="0" x2="-1.27" y2="1.27" width="0.254" layer="94"/>
@@ -2616,7 +2614,7 @@ TS-003</description>
 <text x="0" y="2.54" size="1.27" layer="95" align="center">&gt;NAME</text>
 <text x="0" y="-2.5" size="1.27" layer="96" align="center">&gt;VALUE</text>
 </symbol>
-<symbol name="MICROBUILDER_EEPROM_SOIC8_24C">
+<symbol name="EEPROM_SOIC8_24C">
 <wire x1="-7.62" y1="10.16" x2="7.62" y2="10.16" width="0.254" layer="94"/>
 <wire x1="7.62" y1="10.16" x2="7.62" y2="-10.16" width="0.254" layer="94"/>
 <wire x1="7.62" y1="-10.16" x2="-7.62" y2="-10.16" width="0.254" layer="94"/>
@@ -2632,17 +2630,17 @@ TS-003</description>
 <text x="-7.62" y="12.7" size="1.27" layer="95">&gt;NAME</text>
 <text x="-7.62" y="-12.7" size="1.27" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="MICROBUILDER_FIDUCIAL">
+<symbol name="FIDUCIAL">
 <circle x="0" y="0" radius="1.27" width="0.254" layer="94"/>
 <wire x1="-0.762" y1="0.762" x2="0.762" y2="-0.762" width="0.254" layer="94"/>
 <wire x1="0.762" y1="0.762" x2="-0.762" y2="-0.762" width="0.254" layer="94"/>
 </symbol>
-<symbol name="MICROBUILDER_GND">
+<symbol name="GND">
 <wire x1="-1.27" y1="0" x2="1.27" y2="0" width="0.254" layer="94"/>
 <pin name="GND" x="0" y="2.54" visible="off" length="short" direction="sup" rot="R270"/>
 <text x="-1.524" y="-2.54" size="1.27" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="MICROBUILDER_MOSFET-N">
+<symbol name="MOSFET-N">
 <circle x="2.54" y="-2.54" radius="0.3592" width="0" layer="94"/>
 <circle x="2.54" y="2.54" radius="0.3592" width="0" layer="94"/>
 <wire x1="0.762" y1="0.762" x2="0.762" y2="0" width="0.254" layer="94"/>
@@ -2682,11 +2680,11 @@ TS-003</description>
 <vertex x="2.032" y="-0.762"/>
 </polygon>
 </symbol>
-<symbol name="MICROBUILDER_MOUNTINGHOLE">
+<symbol name="MOUNTINGHOLE">
 <circle x="0" y="0" radius="2.54" width="0.254" layer="94"/>
 <circle x="0" y="0" radius="1.905" width="0.254" layer="94"/>
 </symbol>
-<symbol name="MICROBUILDER_PINH2X13">
+<symbol name="PINH2X13">
 <wire x1="-8.89" y1="-17.78" x2="6.35" y2="-17.78" width="0.4064" layer="94"/>
 <wire x1="6.35" y1="-17.78" x2="6.35" y2="17.78" width="0.4064" layer="94"/>
 <wire x1="6.35" y1="17.78" x2="-8.89" y2="17.78" width="0.4064" layer="94"/>
@@ -2720,7 +2718,7 @@ TS-003</description>
 <text x="-8.89" y="18.415" size="1.778" layer="95">&gt;NAME</text>
 <text x="-8.89" y="-20.32" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="MICROBUILDER_PUSHBUTTON">
+<symbol name="PUSHBUTTON">
 <wire x1="-2.54" y1="1.27" x2="0" y2="1.27" width="0.254" layer="94"/>
 <wire x1="0" y1="1.27" x2="2.54" y2="1.27" width="0.254" layer="94"/>
 <wire x1="-0.635" y1="2.286" x2="0" y2="2.286" width="0.254" layer="94"/>
@@ -2731,7 +2729,7 @@ TS-003</description>
 <text x="-2.54" y="3.556" size="1.27" layer="95">&gt;NAME</text>
 <text x="-2.54" y="-2.286" size="1.27" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="MICROBUILDER_RASPBERRYPI_BPLUS">
+<symbol name="RASPBERRYPI_BPLUS">
 <wire x1="-12.7" y1="22.86" x2="15.24" y2="22.86" width="0.254" layer="94"/>
 <wire x1="15.24" y1="22.86" x2="15.24" y2="-30.48" width="0.254" layer="94"/>
 <wire x1="15.24" y1="-30.48" x2="-12.7" y2="-30.48" width="0.254" layer="94"/>
@@ -2778,7 +2776,7 @@ TS-003</description>
 <pin name="TXD" x="20.32" y="12.7" length="middle" rot="R180"/>
 <text x="12.7" y="25.4" size="1.778" layer="94" rot="R180">Raspberry Pi Model B+</text>
 </symbol>
-<symbol name="MICROBUILDER_RESISTOR">
+<symbol name="RESISTOR">
 <wire x1="-2.54" y1="1.27" x2="2.54" y2="1.27" width="0.254" layer="94"/>
 <wire x1="2.54" y1="1.27" x2="2.54" y2="-1.27" width="0.254" layer="94"/>
 <wire x1="2.54" y1="-1.27" x2="-2.54" y2="-1.27" width="0.254" layer="94"/>
@@ -2788,7 +2786,7 @@ TS-003</description>
 <text x="0" y="2.54" size="1.27" layer="95" font="vector" align="center">&gt;NAME</text>
 <text x="0" y="0" size="1.016" layer="96" font="vector" ratio="15" align="center">&gt;VALUE</text>
 </symbol>
-<symbol name="MICROBUILDER_SOLDERJUMPER">
+<symbol name="SOLDERJUMPER">
 <wire x1="0.381" y1="0.635" x2="0.381" y2="-0.635" width="1.27" layer="94" curve="-180" cap="flat"/>
 <wire x1="-0.381" y1="-0.635" x2="-0.381" y2="0.635" width="1.27" layer="94" curve="-180" cap="flat"/>
 <wire x1="2.54" y1="0" x2="1.651" y2="0" width="0.1524" layer="94"/>
@@ -2798,7 +2796,7 @@ TS-003</description>
 <text x="-2.54" y="2.54" size="1.778" layer="95">&gt;NAME</text>
 <text x="-2.54" y="-3.81" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="MICROBUILDER_SOLDERJUMPER_CLOSED">
+<symbol name="SOLDERJUMPER_CLOSED">
 <wire x1="0.381" y1="0.635" x2="0.381" y2="-0.635" width="1.27" layer="94" curve="-180" cap="flat"/>
 <wire x1="-0.381" y1="-0.635" x2="-0.381" y2="0.635" width="1.27" layer="94" curve="-180" cap="flat"/>
 <wire x1="2.54" y1="0" x2="1.651" y2="0" width="0.1524" layer="94"/>
@@ -2809,7 +2807,7 @@ TS-003</description>
 <text x="-2.54" y="2.54" size="1.778" layer="95">&gt;NAME</text>
 <text x="-2.54" y="-3.81" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
-<symbol name="MICROBUILDER_STMPE610">
+<symbol name="STMPE610">
 <wire x1="-12.7" y1="20.32" x2="12.7" y2="20.32" width="0.254" layer="94"/>
 <wire x1="12.7" y1="20.32" x2="12.7" y2="-15.24" width="0.254" layer="94"/>
 <wire x1="12.7" y1="-15.24" x2="-12.7" y2="-15.24" width="0.254" layer="94"/>
@@ -2850,13 +2848,13 @@ TS-003</description>
 <text x="0" y="-25.4" size="1.27" layer="94">0=I2C/1=SPI</text>
 <text x="-10.16" y="-25.4" size="1.27" layer="94">Mode:</text>
 </symbol>
-<symbol name="MICROBUILDER_TESTPOINT">
+<symbol name="TESTPOINT">
 <circle x="0" y="3.81" radius="1.27" width="0.254" layer="94"/>
 <pin name="P$1" x="0" y="0" visible="off" length="short" rot="R90"/>
 <text x="0" y="5.588" size="1.27" layer="95" rot="R90" align="center-left">&gt;NAME</text>
 <text x="1.651" y="5.588" size="1.27" layer="95" rot="R90" align="center-left">&gt;VALUE</text>
 </symbol>
-<symbol name="MICROBUILDER_TFT_6LED_240X320_50PIN">
+<symbol name="TFT_6LED_240X320_50PIN">
 <wire x1="-20.32" y1="40.64" x2="-7.62" y2="40.64" width="0.254" layer="94"/>
 <wire x1="-7.62" y1="40.64" x2="-5.08" y2="40.64" width="0.254" layer="94"/>
 <wire x1="-5.08" y1="40.64" x2="5.08" y2="40.64" width="0.254" layer="94"/>
@@ -2984,10 +2982,10 @@ TS-003</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="MICROBUILDER_3.3V">
+<deviceset name="3.3V">
 <description>&lt;b&gt;3.3V Supply&lt;/b&gt;</description>
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_3.3V" x="0" y="0"/>
+<gate name="G$1" symbol="3.3V" x="0" y="0"/>
 </gates>
 <devices>
 <device name="">
@@ -2997,7 +2995,7 @@ TS-003</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_CAP_CERAMIC" prefix="C" uservalue="yes">
+<deviceset name="CAP_CERAMIC" prefix="C" uservalue="yes">
 <description>&lt;p&gt;&lt;b&gt;Ceramic Capacitors&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;For new designs, use the packages preceded by an '_' character since they are more reliable:&lt;/p&gt;
 &lt;p&gt;The following footprints should be used on most boards:&lt;/p&gt;
@@ -3015,10 +3013,10 @@ TS-003</description>
 &lt;li&gt;&lt;b&gt;_1206MP&lt;/b&gt; - Micro-pitch footprint for very dense/compact boards&lt;/li&gt;
 &lt;/ul&gt;</description>
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_CAPACITOR" x="0" y="-2.54"/>
+<gate name="G$1" symbol="CAPACITOR" x="0" y="-2.54"/>
 </gates>
 <devices>
-<device name="0603MINI" package="MICROBUILDER_0603-MINI">
+<device name="0603MINI" package="0603-MINI">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -3027,7 +3025,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="0603_NO" package="MICROBUILDER_0603-NO">
+<device name="0603_NO" package="0603-NO">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -3036,7 +3034,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="0805-NOOUTLINE" package="MICROBUILDER_0805-NO">
+<device name="0805-NOOUTLINE" package="0805-NO">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -3045,7 +3043,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="0805-NOTHERMALS" package="MICROBUILDER_0805_NOTHERMALS">
+<device name="0805-NOTHERMALS" package="0805_NOTHERMALS">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -3054,7 +3052,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="0805_10MGAP" package="MICROBUILDER_0805_10MGAP">
+<device name="0805_10MGAP" package="0805_10MGAP">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -3063,7 +3061,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_0402" package="MICROBUILDER__0402">
+<device name="_0402" package="_0402">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -3072,7 +3070,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_0402MP" package="MICROBUILDER__0402MP">
+<device name="_0402MP" package="_0402MP">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -3081,7 +3079,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_0603" package="MICROBUILDER__0603">
+<device name="_0603" package="_0603">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -3090,7 +3088,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_0603MP" package="MICROBUILDER__0603MP">
+<device name="_0603MP" package="_0603MP">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -3099,7 +3097,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_0805" package="MICROBUILDER__0805">
+<device name="_0805" package="_0805">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -3108,7 +3106,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_0805MP" package="MICROBUILDER__0805MP">
+<device name="_0805MP" package="_0805MP">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -3117,7 +3115,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_1206" package="MICROBUILDER__1206">
+<device name="_1206" package="_1206">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -3126,7 +3124,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_1206MP" package="MICROBUILDER__1206MP">
+<device name="_1206MP" package="_1206MP">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -3137,7 +3135,7 @@ TS-003</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_DIODE" prefix="D" uservalue="yes">
+<deviceset name="DIODE" prefix="D" uservalue="yes">
 <description>&lt;b&gt;Diode&lt;/b&gt;
 &lt;p&gt;
 &lt;h3&gt;SMA&lt;/h3&gt;
@@ -3354,10 +3352,10 @@ TS-003</description>
 
 &lt;/p&gt;</description>
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_DIODE" x="0" y="0"/>
+<gate name="G$1" symbol="DIODE" x="0" y="0"/>
 </gates>
 <devices>
-<device name="DO-1N4148" package="MICROBUILDER_DO-1N4148">
+<device name="DO-1N4148" package="DO-1N4148">
 <connects>
 <connect gate="G$1" pin="A" pad="A"/>
 <connect gate="G$1" pin="C" pad="C"/>
@@ -3366,7 +3364,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="POWERDI" package="MICROBUILDER_POWERDI-5">
+<device name="POWERDI" package="POWERDI-5">
 <connects>
 <connect gate="G$1" pin="A" pad="A1 A2"/>
 <connect gate="G$1" pin="C" pad="C"/>
@@ -3375,7 +3373,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="SMA" package="MICROBUILDER_SMADIODE">
+<device name="SMA" package="SMADIODE">
 <connects>
 <connect gate="G$1" pin="A" pad="A"/>
 <connect gate="G$1" pin="C" pad="C"/>
@@ -3384,7 +3382,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="SOD-123" package="MICROBUILDER_SOD-123">
+<device name="SOD-123" package="SOD-123">
 <connects>
 <connect gate="G$1" pin="A" pad="A"/>
 <connect gate="G$1" pin="C" pad="C"/>
@@ -3393,7 +3391,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="SOD-323" package="MICROBUILDER_SOD-323">
+<device name="SOD-323" package="SOD-323">
 <connects>
 <connect gate="G$1" pin="A" pad="A"/>
 <connect gate="G$1" pin="C" pad="C"/>
@@ -3402,7 +3400,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="SOD-523" package="MICROBUILDER_SOD-523">
+<device name="SOD-523" package="SOD-523">
 <connects>
 <connect gate="G$1" pin="A" pad="A"/>
 <connect gate="G$1" pin="C" pad="K"/>
@@ -3411,7 +3409,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="SOT23_REFLOW" package="MICROBUILDER_SOT23-R">
+<device name="SOT23_REFLOW" package="SOT23-R">
 <connects>
 <connect gate="G$1" pin="A" pad="1"/>
 <connect gate="G$1" pin="C" pad="3"/>
@@ -3420,7 +3418,7 @@ TS-003</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="SOT23_WIDE" package="MICROBUILDER_SOT23-WIDE">
+<device name="SOT23_WIDE" package="SOT23-WIDE">
 <connects>
 <connect gate="G$1" pin="A" pad="1"/>
 <connect gate="G$1" pin="C" pad="3"/>
@@ -3431,12 +3429,12 @@ TS-003</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_DISP_LCD_6LED_240X320_50PIN">
+<deviceset name="DISP_LCD_6LED_240X320_50PIN">
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_TFT_6LED_240X320_50PIN" x="0" y="0"/>
+<gate name="G$1" symbol="TFT_6LED_240X320_50PIN" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="MICROBUILDER_TFT_3.2IN_240X320_50PIN">
+<device name="" package="TFT_3.2IN_240X320_50PIN">
 <connects>
 <connect gate="G$1" pin="#CS" pad="38"/>
 <connect gate="G$1" pin="#RD" pad="35"/>
@@ -3495,7 +3493,7 @@ TS-003</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_EEPROM_I2C_SOIC8_GENERIC" prefix="U" uservalue="yes">
+<deviceset name="EEPROM_I2C_SOIC8_GENERIC" prefix="U" uservalue="yes">
 <description>&lt;p&gt;&lt;b&gt;Note&lt;/b&gt;: The same pinout is used for many I2C EEPROMs in SOIC8(150mil) from a variety of manufacturers and in various sizes.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Examples:&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;16K (2K x 8 Bit) I2C EEPROM&lt;br/&gt;
@@ -3506,10 +3504,10 @@ Digikey: CAT24C16WI-GT3CT-ND&lt;/p&gt;
 1.7-5.5V, 400KHz, -40°C-85°C&lt;br/&gt;
 Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_EEPROM_SOIC8_24C" x="0" y="0"/>
+<gate name="G$1" symbol="EEPROM_SOIC8_24C" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="MICROBUILDER_SOIC8_150MIL">
+<device name="" package="SOIC8_150MIL">
 <connects>
 <connect gate="G$1" pin="A0" pad="1"/>
 <connect gate="G$1" pin="A1" pad="2"/>
@@ -3526,28 +3524,28 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_FIDUCIAL" prefix="FID">
+<deviceset name="FIDUCIAL" prefix="FID">
 <description>&lt;b&gt;Fiducial Alignment Points&lt;/b&gt;
 &lt;p&gt;Various fiducial points for machine vision alignment.&lt;/p&gt;</description>
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_FIDUCIAL" x="0" y="0"/>
+<gate name="G$1" symbol="FIDUCIAL" x="0" y="0"/>
 </gates>
 <devices>
-<device name="&quot;&quot;" package="MICROBUILDER_FIDUCIAL_1MM">
+<device name="&quot;&quot;" package="FIDUCIAL_1MM">
 <technologies>
 <technology name="">
 <attribute name="BOM" value="EXCLUDE" constant="no"/>
 </technology>
 </technologies>
 </device>
-<device name="1X2.5" package="MICROBUILDER_FIDUCIAL-1X2.5">
+<device name="1X2.5" package="FIDUCIAL-1X2.5">
 <technologies>
 <technology name="">
 <attribute name="BOM" value="EXCLUDE" constant="no"/>
 </technology>
 </technologies>
 </device>
-<device name="ROUND" package="MICROBUILDER_PASS-ROUND">
+<device name="ROUND" package="PASS-ROUND">
 <technologies>
 <technology name="">
 <attribute name="BOM" value="EXCLUDE" constant="no"/>
@@ -3556,10 +3554,10 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_GND">
+<deviceset name="GND">
 <description>&lt;b&gt;GND&lt;/b&gt;</description>
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_GND" x="0" y="0"/>
+<gate name="G$1" symbol="GND" x="0" y="0"/>
 </gates>
 <devices>
 <device name="">
@@ -3569,12 +3567,12 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_HEADER-2X13" prefix="JP" uservalue="yes">
+<deviceset name="HEADER-2X13" prefix="JP" uservalue="yes">
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_PINH2X13" x="0" y="0"/>
+<gate name="G$1" symbol="PINH2X13" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="MICROBUILDER_2X13">
+<device name="" package="2X13">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="10" pad="10"/>
@@ -3607,7 +3605,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="-SMT" package="MICROBUILDER_2X13_SMT_MALE">
+<device name="-SMT" package="2X13_SMT_MALE">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="10" pad="10"/>
@@ -3642,7 +3640,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_MOSFET-N" prefix="Q" uservalue="yes">
+<deviceset name="MOSFET-N" prefix="Q" uservalue="yes">
 <description>&lt;b&gt;N-Channel Mosfet&lt;/b&gt;
 &lt;p&gt;&lt;b&gt;LEGEND&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;
@@ -3747,10 +3745,10 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 &lt;/table&gt; 
 &lt;/p&gt;</description>
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_MOSFET-N" x="-2.54" y="0"/>
+<gate name="G$1" symbol="MOSFET-N" x="-2.54" y="0"/>
 </gates>
 <devices>
-<device name="DPAK" package="MICROBUILDER_DPAK">
+<device name="DPAK" package="DPAK">
 <connects>
 <connect gate="G$1" pin="D" pad="4"/>
 <connect gate="G$1" pin="G" pad="1"/>
@@ -3760,7 +3758,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="POWERPAK-1212-8" package="MICROBUILDER_POWERPAK-1212-8">
+<device name="POWERPAK-1212-8" package="POWERPAK-1212-8">
 <connects>
 <connect gate="G$1" pin="D" pad="5-8"/>
 <connect gate="G$1" pin="G" pad="4"/>
@@ -3770,7 +3768,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="REFLOW" package="MICROBUILDER_SOT23-R">
+<device name="REFLOW" package="SOT23-R">
 <connects>
 <connect gate="G$1" pin="D" pad="3"/>
 <connect gate="G$1" pin="G" pad="1"/>
@@ -3780,7 +3778,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="WAVE" package="MICROBUILDER_SOT23-W">
+<device name="WAVE" package="SOT23-W">
 <connects>
 <connect gate="G$1" pin="D" pad="3"/>
 <connect gate="G$1" pin="G" pad="1"/>
@@ -3790,7 +3788,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="WIDE" package="MICROBUILDER_SOT23-WIDE">
+<device name="WIDE" package="SOT23-WIDE">
 <connects>
 <connect gate="G$1" pin="D" pad="3"/>
 <connect gate="G$1" pin="G" pad="1"/>
@@ -3800,7 +3798,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_TO252" package="MICROBUILDER_TO252">
+<device name="_TO252" package="TO252">
 <connects>
 <connect gate="G$1" pin="D" pad="3"/>
 <connect gate="G$1" pin="G" pad="1"/>
@@ -3812,63 +3810,63 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_MOUNTINGHOLE">
+<deviceset name="MOUNTINGHOLE">
 <description>&lt;b&gt;Mounting Hole&lt;/b&gt;
 &lt;p&gt;For #2 screws (0.086"/2.18mm width, 0.094"/2.4mm hole) use 2.5mm&lt;/p&gt;</description>
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_MOUNTINGHOLE" x="0" y="0"/>
+<gate name="G$1" symbol="MOUNTINGHOLE" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="MICROBUILDER_MOUNTINGHOLE_3.0_PLATED_VIAS">
+<device name="" package="MOUNTINGHOLE_3.0_PLATED_VIAS">
 <technologies>
 <technology name="">
 <attribute name="BOM" value="EXCLUDE" constant="no"/>
 </technology>
 </technologies>
 </device>
-<device name="1.0" package="MICROBUILDER_MOUNTINGHOLE_1.0_PLATED">
+<device name="1.0" package="MOUNTINGHOLE_1.0_PLATED">
 <technologies>
 <technology name="">
 <attribute name="BOM" value="EXCLUDE" constant="no"/>
 </technology>
 </technologies>
 </device>
-<device name="2.0" package="MICROBUILDER_MOUNTINGHOLE_2.0_PLATED">
+<device name="2.0" package="MOUNTINGHOLE_2.0_PLATED">
 <technologies>
 <technology name="">
 <attribute name="BOM" value="EXCLUDE" constant="no"/>
 </technology>
 </technologies>
 </device>
-<device name="2.5" package="MICROBUILDER_MOUNTINGHOLE_2.5_PLATED">
+<device name="2.5" package="MOUNTINGHOLE_2.5_PLATED">
 <technologies>
 <technology name="">
 <attribute name="BOM" value="EXCLUDE" constant="no"/>
 </technology>
 </technologies>
 </device>
-<device name="2.5_THICK" package="MICROBUILDER_MOUNTINGHOLE_2.5_PLATED_THICK">
+<device name="2.5_THICK" package="MOUNTINGHOLE_2.5_PLATED_THICK">
 <technologies>
 <technology name="">
 <attribute name="BOM" value="EXCLUDE" constant="no"/>
 </technology>
 </technologies>
 </device>
-<device name="3.0" package="MICROBUILDER_MOUNTINGHOLE_3.0_PLATED">
+<device name="3.0" package="MOUNTINGHOLE_3.0_PLATED">
 <technologies>
 <technology name="">
 <attribute name="BOM" value="EXCLUDE" constant="no"/>
 </technology>
 </technologies>
 </device>
-<device name="3.0SQUARE" package="MICROBUILDER_MOUNTINGHOLE_3.0_PLATED_SQUAREVIAS">
+<device name="3.0SQUARE" package="MOUNTINGHOLE_3.0_PLATED_SQUAREVIAS">
 <technologies>
 <technology name="">
 <attribute name="BOM" value="EXCLUDE" constant="no"/>
 </technology>
 </technologies>
 </device>
-<device name="3.0THIN" package="MICROBUILDER_MOUNTINGHOLE_3.0_PLATEDTHIN">
+<device name="3.0THIN" package="MOUNTINGHOLE_3.0_PLATEDTHIN">
 <technologies>
 <technology name="">
 <attribute name="BOM" value="EXCLUDE" constant="no"/>
@@ -3877,12 +3875,12 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_RASPBERRYPI_BPLUS" prefix="RPI">
+<deviceset name="RASPBERRYPI_BPLUS" prefix="RPI">
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_RASPBERRYPI_BPLUS" x="0" y="2.54"/>
+<gate name="G$1" symbol="RASPBERRYPI_BPLUS" x="0" y="2.54"/>
 </gates>
 <devices>
-<device name="-SMT+SLOTS" package="MICROBUILDER_PI_HAT_SMT_SLOTS">
+<device name="-SMT+SLOTS" package="PI_HAT_SMT_SLOTS">
 <connects>
 <connect gate="G$1" pin="#SPI_CE0" pad="24"/>
 <connect gate="G$1" pin="#SPI_CE1" pad="26"/>
@@ -3929,7 +3927,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_HATNOSLOTS" package="MICROBUILDER_PI_HAT_NOSLOTS">
+<device name="_HATNOSLOTS" package="PI_HAT_NOSLOTS">
 <connects>
 <connect gate="G$1" pin="#SPI_CE0" pad="24"/>
 <connect gate="G$1" pin="#SPI_CE1" pad="26"/>
@@ -3976,7 +3974,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_HATSLOTS" package="MICROBUILDER_PI_HAT_SLOTS">
+<device name="_HATSLOTS" package="PI_HAT_SLOTS">
 <connects>
 <connect gate="G$1" pin="#SPI_CE0" pad="24"/>
 <connect gate="G$1" pin="#SPI_CE1" pad="26"/>
@@ -4023,7 +4021,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_IDC" package="MICROBUILDER_2X20">
+<device name="_IDC" package="2X20">
 <connects>
 <connect gate="G$1" pin="#SPI_CE0" pad="24"/>
 <connect gate="G$1" pin="#SPI_CE1" pad="26"/>
@@ -4070,7 +4068,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_SHIELD" package="MICROBUILDER_RASPBERRYPI_BPLUS_SHIELD">
+<device name="_SHIELD" package="RASPBERRYPI_BPLUS_SHIELD">
 <connects>
 <connect gate="G$1" pin="#SPI_CE0" pad="24"/>
 <connect gate="G$1" pin="#SPI_CE1" pad="26"/>
@@ -4117,7 +4115,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_SHIELD_NODIM" package="MICROBUILDER_RASPBERRYPI_BPLUS_SHIELD_NODIM">
+<device name="_SHIELD_NODIM" package="RASPBERRYPI_BPLUS_SHIELD_NODIM">
 <connects>
 <connect gate="G$1" pin="#SPI_CE0" pad="24"/>
 <connect gate="G$1" pin="#SPI_CE1" pad="26"/>
@@ -4164,7 +4162,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_SMT" package="MICROBUILDER_RASPBERRYPI_BPLUS_SHIELD_SMT">
+<device name="_SMT" package="RASPBERRYPI_BPLUS_SHIELD_SMT">
 <connects>
 <connect gate="G$1" pin="#SPI_CE0" pad="24"/>
 <connect gate="G$1" pin="#SPI_CE1" pad="26"/>
@@ -4213,7 +4211,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_RESISTOR" prefix="R" uservalue="yes">
+<deviceset name="RESISTOR" prefix="R" uservalue="yes">
 <description>&lt;p&gt;&lt;b&gt;Resistors&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;For new designs, use the packages preceded by an '_' character since they are more reliable:&lt;/p&gt;
 &lt;p&gt;The following footprints should be used on most boards:&lt;/p&gt;
@@ -4231,10 +4229,10 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 &lt;li&gt;&lt;b&gt;_1206MP&lt;/b&gt; - Micro-pitch footprint for very dense/compact boards&lt;/li&gt;
 &lt;/ul&gt;</description>
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_RESISTOR" x="0" y="0"/>
+<gate name="G$1" symbol="RESISTOR" x="0" y="0"/>
 </gates>
 <devices>
-<device name="0603MINI" package="MICROBUILDER_0603-MINI">
+<device name="0603MINI" package="0603-MINI">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4243,7 +4241,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="0805_NOOUTLINE" package="MICROBUILDER_0805-NO">
+<device name="0805_NOOUTLINE" package="0805-NO">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4252,7 +4250,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="0805_NOTHERMALS" package="MICROBUILDER_0805_NOTHERMALS">
+<device name="0805_NOTHERMALS" package="0805_NOTHERMALS">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4261,7 +4259,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="2012" package="MICROBUILDER_2012">
+<device name="2012" package="2012">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4270,7 +4268,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="2512" package="MICROBUILDER_2512">
+<device name="2512" package="2512">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4279,7 +4277,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_0402" package="MICROBUILDER__0402">
+<device name="_0402" package="_0402">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4288,7 +4286,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_0402MP" package="MICROBUILDER__0402MP">
+<device name="_0402MP" package="_0402MP">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4297,7 +4295,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_0603" package="MICROBUILDER__0603">
+<device name="_0603" package="_0603">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4306,7 +4304,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_0603MP" package="MICROBUILDER__0603MP">
+<device name="_0603MP" package="_0603MP">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4315,7 +4313,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_0603_NOOUT" package="MICROBUILDER_0603-NO">
+<device name="_0603_NOOUT" package="0603-NO">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4324,7 +4322,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_0805" package="MICROBUILDER__0805">
+<device name="_0805" package="_0805">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4333,7 +4331,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_0805MP" package="MICROBUILDER__0805MP">
+<device name="_0805MP" package="_0805MP">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4342,7 +4340,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_1206" package="MICROBUILDER__1206">
+<device name="_1206" package="_1206">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4351,7 +4349,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="_1206MP" package="MICROBUILDER__1206MP">
+<device name="_1206MP" package="_1206MP">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4362,17 +4360,17 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_SOLDERJUMPER" prefix="SJ" uservalue="yes">
+<deviceset name="SOLDERJUMPER" prefix="SJ" uservalue="yes">
 <description>&lt;p&gt;&lt;b&gt;SMD Solder JUMPER&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Solder the two pads together to create a connection, or remove the solder to break it.&lt;/p&gt;
 &lt;b&gt;REFLOW&lt;/b&gt; - Use this footprint for solder paste and reflow ovens.&lt;br/&gt;
 &lt;b&gt;WAVE&lt;/b&gt; - Use this footprint for hand-soldering (larger pads).
 &lt;p&gt;&lt;b&gt;CLOSED&lt;/b&gt; - Has a trace between the two pads to ensure it is closed by default.  The trace needs to be cut to disable the jumper, and can be closed again by creating a solder bridge between the two pads.&lt;/p&gt;</description>
 <gates>
-<gate name="1" symbol="MICROBUILDER_SOLDERJUMPER" x="0" y="0"/>
+<gate name="1" symbol="SOLDERJUMPER" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="MICROBUILDER_SOLDERJUMPER_ARROW_NOPASTE">
+<device name="" package="SOLDERJUMPER_ARROW_NOPASTE">
 <connects>
 <connect gate="1" pin="1" pad="1"/>
 <connect gate="1" pin="2" pad="2"/>
@@ -4383,7 +4381,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 </technology>
 </technologies>
 </device>
-<device name="CLOSED" package="MICROBUILDER_SOLDERJUMPER_CLOSEDWIRE">
+<device name="CLOSED" package="SOLDERJUMPER_CLOSEDWIRE">
 <connects>
 <connect gate="1" pin="1" pad="1"/>
 <connect gate="1" pin="2" pad="2"/>
@@ -4392,7 +4390,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="REFLOW" package="MICROBUILDER_SOLDERJUMPER_REFLOW">
+<device name="REFLOW" package="SOLDERJUMPER_REFLOW">
 <connects>
 <connect gate="1" pin="1" pad="1"/>
 <connect gate="1" pin="2" pad="2"/>
@@ -4401,7 +4399,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="REFLOW_NOPASTE" package="MICROBUILDER_SOLDERJUMPER_REFLOW_NOPASTE">
+<device name="REFLOW_NOPASTE" package="SOLDERJUMPER_REFLOW_NOPASTE">
 <connects>
 <connect gate="1" pin="1" pad="1"/>
 <connect gate="1" pin="2" pad="2"/>
@@ -4410,7 +4408,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="WAVE" package="MICROBUILDER_SOLDERJUMPER_WAVE">
+<device name="WAVE" package="SOLDERJUMPER_WAVE">
 <connects>
 <connect gate="1" pin="1" pad="1"/>
 <connect gate="1" pin="2" pad="2"/>
@@ -4421,7 +4419,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_SOLDERJUMPER_CLOSED" prefix="SJ" uservalue="yes">
+<deviceset name="SOLDERJUMPER_CLOSED" prefix="SJ" uservalue="yes">
 <description>&lt;b&gt;Solder Jumper - Closed&lt;/b&gt;
 &lt;p&gt;These solder jumpers are closed by default&lt;/p&gt;
 &lt;ul&gt;
@@ -4429,10 +4427,10 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 &lt;li&gt;&lt;b&gt;CLOSEDPERM&lt;/b&gt; - 63 mil trace between pads for a permanent connection (used to 'bridge' two signals, a shameless hack for Eagle).  Can double as a test point as well (no cream layer)&lt;/li&gt;
 &lt;/ul&gt;</description>
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_SOLDERJUMPER_CLOSED" x="0" y="0"/>
+<gate name="G$1" symbol="SOLDERJUMPER_CLOSED" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="MICROBUILDER_SOLDERJUMPER_CLOSEDWIRE">
+<device name="" package="SOLDERJUMPER_CLOSEDWIRE">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4441,7 +4439,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="PERM" package="MICROBUILDER_SOLDERJUMPER_CLOSEDPERM">
+<device name="PERM" package="SOLDERJUMPER_CLOSEDPERM">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -4452,13 +4450,13 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_STMPE610" prefix="U" uservalue="yes">
+<deviceset name="STMPE610" prefix="U" uservalue="yes">
 <description>&lt;p&gt;&lt;b&gt;STMPE610 - 12-Bit Touch Screen Controller&lt;/b&gt;&lt;/p&gt;</description>
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_STMPE610" x="0" y="0"/>
+<gate name="G$1" symbol="STMPE610" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="MICROBUILDER_QFN16_3MM">
+<device name="" package="QFN16_3MM">
 <connects>
 <connect gate="G$1" pin="A0/MISO" pad="3"/>
 <connect gate="G$1" pin="GND" pad="10"/>
@@ -4483,16 +4481,16 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_SWITCH_PUSHBUTTON" prefix="SW" uservalue="yes">
+<deviceset name="SWITCH_PUSHBUTTON" prefix="SW" uservalue="yes">
 <description>&lt;p&gt;&lt;b&gt;Buttons&lt;/b&gt;&lt;/p&gt;
 &lt;b&gt;SOFTTOUCHSMD_SJ&lt;/b&gt; - Soft touch temporary push button (Super Junk Akihabara)
 &lt;p&gt;Compatible with SKPMANE010 [Mouser: 688-SKPMAN]&lt;/p&gt;
 &lt;p&gt;C&amp;K_KSS = Digikey: KSS221GLFS&lt;/p&gt;</description>
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_PUSHBUTTON" x="0" y="0"/>
+<gate name="G$1" symbol="PUSHBUTTON" x="0" y="0"/>
 </gates>
 <devices>
-<device name="C&amp;K_KSS" package="MICROBUILDER_BTN_CK_KSS">
+<device name="C&amp;K_KSS" package="BTN_CK_KSS">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 <connect gate="G$1" pin="P$2" pad="P$2"/>
@@ -4501,7 +4499,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="EVQ-PE" package="MICROBUILDER_TACT_PANA-EVQ">
+<device name="EVQ-PE" package="TACT_PANA-EVQ">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 <connect gate="G$1" pin="P$2" pad="P$2"/>
@@ -4510,7 +4508,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="SOFTTOUCHSMD_SJ" package="MICROBUILDER_PUSHBUTTON_SMD_SJ">
+<device name="SOFTTOUCHSMD_SJ" package="PUSHBUTTON_SMD_SJ">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 <connect gate="G$1" pin="P$2" pad="P$2"/>
@@ -4521,7 +4519,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MICROBUILDER_TESTPOINT" prefix="TP" uservalue="yes">
+<deviceset name="TESTPOINT" prefix="TP" uservalue="yes">
 <description>&lt;b&gt;Test Point&lt;/b&gt;
 &lt;p&gt;Various test points for characterisation and PCB testing&lt;/p&gt;
 &lt;p&gt;
@@ -4530,10 +4528,10 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 &lt;/ul&gt;
 &lt;/p&gt;</description>
 <gates>
-<gate name="G$1" symbol="MICROBUILDER_TESTPOINT" x="0" y="0"/>
+<gate name="G$1" symbol="TESTPOINT" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="MICROBUILDER_TESTPOINT_SMT">
+<device name="" package="TESTPOINT_SMT">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 </connects>
@@ -4541,7 +4539,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="0.1&quot;" package="MICROBUILDER_1X01_ROUND">
+<device name="0.1&quot;" package="1X01_ROUND">
 <connects>
 <connect gate="G$1" pin="P$1" pad="1"/>
 </connects>
@@ -4551,7 +4549,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 </technology>
 </technologies>
 </device>
-<device name="1.5X2.0MM_NOCREAM" package="MICROBUILDER_PAD-1.5X2.0">
+<device name="1.5X2.0MM_NOCREAM" package="PAD-1.5X2.0">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 </connects>
@@ -4559,7 +4557,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="PAD1MM" package="MICROBUILDER_TESTPOINT_PAD_1MM">
+<device name="PAD1MM" package="TESTPOINT_PAD_1MM">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 </connects>
@@ -4567,7 +4565,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="PAD2MM" package="MICROBUILDER_TESTPOINT_PAD_2MM">
+<device name="PAD2MM" package="TESTPOINT_PAD_2MM">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 </connects>
@@ -4575,7 +4573,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="RECT0.25X1MM" package="MICROBUILDER_TESTPOINT_RECT_0.25X1MM">
+<device name="RECT0.25X1MM" package="TESTPOINT_RECT_0.25X1MM">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 </connects>
@@ -4583,7 +4581,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="ROUND0.5MM" package="MICROBUILDER_TESTPOINT_ROUND_0.5MM">
+<device name="ROUND0.5MM" package="TESTPOINT_ROUND_0.5MM">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 </connects>
@@ -4591,7 +4589,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="ROUND1MM" package="MICROBUILDER_TESTPOINT_ROUND_1MM">
+<device name="ROUND1MM" package="TESTPOINT_ROUND_1MM">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 </connects>
@@ -4599,7 +4597,7 @@ Digikey: 24AA256-I/SN-ND&lt;/p&gt;</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="ROUND2MM" package="MICROBUILDER_TESTPOINT_ROUND_2MM">
+<device name="ROUND2MM" package="TESTPOINT_ROUND_2MM">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 </connects>
