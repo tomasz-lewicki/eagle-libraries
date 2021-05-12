@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="1" unitdist="mic" unit="mic" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="yes"/>
@@ -1817,46 +1817,26 @@ round, layers 1 + 16 + 21 + 39 + 49</description>
 <smd name="38" x="54.737" y="31.115" dx="3.048" dy="1.524" layer="16" rot="R180"/>
 <smd name="39" x="50.419" y="28.575" dx="3.048" dy="1.524" layer="16"/>
 <smd name="40" x="54.737" y="28.575" dx="3.048" dy="1.524" layer="16" rot="R180"/>
-<text x="55.633" y="76.327" size="1.27" layer="25" font="vector">5V0</text>
-<text x="55.633" y="73.787" size="1.27" layer="25" font="vector">5.0V</text>
-<text x="55.633" y="71.247" size="1.27" layer="25" font="vector">GND</text>
-<text x="55.633" y="68.707" size="1.27" layer="25" font="vector">TXD</text>
-<text x="55.633" y="66.167" size="1.27" layer="25" font="vector">RXD</text>
-<text x="55.633" y="63.627" size="1.27" layer="25" font="vector">GPIO18</text>
-<text x="55.633" y="61.087" size="1.27" layer="25" font="vector">GND</text>
-<text x="55.633" y="58.547" size="1.27" layer="25" font="vector">GPIO23</text>
-<text x="55.633" y="56.007" size="1.27" layer="25" font="vector">GPIO24</text>
-<text x="55.633" y="53.213" size="1.27" layer="25" font="vector">GND</text>
-<text x="55.633" y="50.927" size="1.27" layer="25" font="vector">GPIO25</text>
-<text x="55.633" y="48.387" size="1.27" layer="25" font="vector">SPI_CE0_N</text>
-<text x="55.633" y="45.847" size="1.27" layer="25" font="vector">SPI_CE1_N</text>
-<text x="49.537" y="77.597" size="1.27" layer="25" font="vector" rot="R180">3V3</text>
-<text x="49.537" y="75.057" size="1.27" layer="25" font="vector" rot="R180">SDA1</text>
-<text x="49.537" y="72.517" size="1.27" layer="25" font="vector" rot="R180">SCL1</text>
-<text x="49.537" y="69.977" size="1.27" layer="25" font="vector" rot="R180">GPIO4</text>
-<text x="49.537" y="67.437" size="1.27" layer="25" font="vector" rot="R180">GND</text>
-<text x="49.537" y="64.643" size="1.27" layer="25" font="vector" rot="R180">GPIO17</text>
-<text x="49.537" y="62.103" size="1.27" layer="25" font="vector" rot="R180">GPIO27</text>
-<text x="49.537" y="59.817" size="1.27" layer="25" font="vector" rot="R180">GPIO22</text>
-<text x="49.537" y="57.277" size="1.27" layer="25" font="vector" rot="R180">3V3</text>
-<text x="49.537" y="54.483" size="1.27" layer="25" font="vector" rot="R180">SPI_MOSI</text>
-<text x="49.537" y="52.197" size="1.27" layer="25" font="vector" rot="R180">SPI_MISO</text>
-<text x="49.537" y="49.657" size="1.27" layer="25" font="vector" rot="R180">SPI_SCLK</text>
-<text x="49.537" y="47.117" size="1.27" layer="25" font="vector" rot="R180">GND</text>
-<text x="55.633" y="43.307" size="1.27" layer="25" font="vector">EECLK</text>
-<text x="55.633" y="40.767" size="1.27" layer="25" font="vector">GND</text>
-<text x="55.633" y="38.227" size="1.27" layer="25" font="vector">GPIO12</text>
-<text x="55.633" y="35.433" size="1.27" layer="25" font="vector">GND</text>
-<text x="55.633" y="33.147" size="1.27" layer="25" font="vector">GPIO16</text>
-<text x="55.633" y="30.607" size="1.27" layer="25" font="vector">GPIO20</text>
-<text x="55.633" y="28.067" size="1.27" layer="25" font="vector">GPIO21</text>
-<text x="49.537" y="44.323" size="1.27" layer="25" font="vector" rot="R180">EEDATA</text>
-<text x="49.537" y="42.037" size="1.27" layer="25" font="vector" rot="R180">GPIO5</text>
-<text x="49.537" y="39.497" size="1.27" layer="25" font="vector" rot="R180">GPIO6</text>
-<text x="49.537" y="36.703" size="1.27" layer="25" font="vector" rot="R180">GPIO13</text>
-<text x="49.537" y="34.417" size="1.27" layer="25" font="vector" rot="R180">GPOI19</text>
-<text x="49.537" y="31.877" size="1.27" layer="25" font="vector" rot="R180">GPIO26</text>
-<text x="49.537" y="29.337" size="1.27" layer="25" font="vector" rot="R180">GND</text>
+<text x="40.633" y="77.597" size="1.27" layer="26" font="vector" rot="MR180">3V3</text>
+<text x="40.633" y="75.057" size="1.27" layer="26" font="vector" rot="MR180">SDA1</text>
+<text x="40.633" y="72.517" size="1.27" layer="26" font="vector" rot="MR180">SCL1</text>
+<text x="40.633" y="69.977" size="1.27" layer="26" font="vector" rot="MR180">GPIO4</text>
+<text x="40.633" y="67.437" size="1.27" layer="26" font="vector" rot="MR180">GND</text>
+<text x="40.633" y="64.643" size="1.27" layer="26" font="vector" rot="MR180">GPIO17</text>
+<text x="40.633" y="62.103" size="1.27" layer="26" font="vector" rot="MR180">GPIO27</text>
+<text x="40.633" y="59.817" size="1.27" layer="26" font="vector" rot="MR180">GPIO22</text>
+<text x="40.633" y="57.277" size="1.27" layer="26" font="vector" rot="MR180">3V3</text>
+<text x="40.633" y="54.483" size="1.27" layer="26" font="vector" rot="MR180">SPI_MOSI</text>
+<text x="40.633" y="52.197" size="1.27" layer="26" font="vector" rot="MR180">SPI_MISO</text>
+<text x="40.633" y="49.657" size="1.27" layer="26" font="vector" rot="MR180">SPI_SCLK</text>
+<text x="40.633" y="47.117" size="1.27" layer="26" font="vector" rot="MR180">GND</text>
+<text x="40.633" y="44.323" size="1.27" layer="26" font="vector" rot="MR180">EEDATA</text>
+<text x="40.633" y="42.037" size="1.27" layer="26" font="vector" rot="MR180">GPIO5</text>
+<text x="40.633" y="39.497" size="1.27" layer="26" font="vector" rot="MR180">GPIO6</text>
+<text x="40.633" y="36.703" size="1.27" layer="26" font="vector" rot="MR180">GPIO13</text>
+<text x="40.633" y="34.417" size="1.27" layer="26" font="vector" rot="MR180">GPOI19</text>
+<text x="40.633" y="31.877" size="1.27" layer="26" font="vector" rot="MR180">GPIO26</text>
+<text x="40.633" y="29.337" size="1.27" layer="26" font="vector" rot="MR180">GND</text>
 </package>
 <package name="SMADIODE">
 <description>&lt;b&gt;SMA Surface Mount Diode&lt;/b&gt;</description>
